@@ -10,3 +10,6 @@ npm ls >> tes.txt
 Appache/Tomcat:
 http://www.zeitoun.net/articles/client-certificate-x509-authentication-behind-reverse-proxy/start
 <br>
+scheduler:
+https://gualtierotesta.wordpress.com/category/javaee/
+<br>
