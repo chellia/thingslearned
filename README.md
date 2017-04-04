@@ -17,3 +17,9 @@ lamda:
 findFirst
 skip(1)
 <br>
+WELD-001303: No active contexts for scope type javax.enterprise.context.RequestScoped
+http://stackoverflow.com/questions/26631093/no-active-contexts-for-scope-type-javax-enterprise-context-requestscoped-when-in
+or 
+while running the test case,
+add the @InRequestScope
+<br>
