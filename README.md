@@ -23,3 +23,6 @@ or
 while running the test case,
 add the @InRequestScope
 <br>
+Jersey:
+http://howtodoinjava.com/jersey/jersey-custom-logging-request-and-response-entities-using-filter/
+<br>
