@@ -13,3 +13,7 @@ http://www.zeitoun.net/articles/client-certificate-x509-authentication-behind-re
 scheduler:
 https://gualtierotesta.wordpress.com/category/javaee/
 <br>
+lamda:
+findFirst
+skip(1)
+<br>
