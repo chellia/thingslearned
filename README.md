@@ -26,3 +26,8 @@ add the @InRequestScope
 Jersey:
 http://howtodoinjava.com/jersey/jersey-custom-logging-request-and-response-entities-using-filter/
 <br>
+Hibernate:
+@Enumerated(EnumType.STRING) ORA-01722 INVALID NUMBER = http://stackoverflow.com/questions/27979857/caused-by-java-sql-sqlsyntaxerrorexception-ora-01722-invalid-number-in-jpa-hi
+<br>
+http://stackoverflow.com/questions/19632805/jpa-java-lang-illegalargumentexception-not-an-entity
+<br>
