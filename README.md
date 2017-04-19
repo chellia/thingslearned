@@ -31,3 +31,6 @@ Hibernate:
 <br>
 http://stackoverflow.com/questions/19632805/jpa-java-lang-illegalargumentexception-not-an-entity
 <br>
+Maven:
+http://stackoverflow.com/questions/6646959/difference-between-maven-scope-compile-and-provided-for-jar-packaging
+<br>
