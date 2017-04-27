@@ -34,3 +34,5 @@ http://stackoverflow.com/questions/19632805/jpa-java-lang-illegalargumentexcepti
 Maven:
 http://stackoverflow.com/questions/6646959/difference-between-maven-scope-compile-and-provided-for-jar-packaging
 <br>
+By default, CDI beans are lazy loaded. It will invoke the postConstruct method while accessing the object.
+<br>
