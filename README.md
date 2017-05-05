@@ -36,3 +36,5 @@ http://stackoverflow.com/questions/6646959/difference-between-maven-scope-compil
 <br>
 By default, CDI beans are lazy loaded. It will invoke the postConstruct method while accessing the object.
 <br>
+http://geekabyte.blogspot.in/2013/09/fixing-converterhttpmessagenotwritablee.html
+<br>
