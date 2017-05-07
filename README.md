@@ -38,3 +38,5 @@ By default, CDI beans are lazy loaded. It will invoke the postConstruct method w
 <br>
 http://geekabyte.blogspot.in/2013/09/fixing-converterhttpmessagenotwritablee.html
 <br>
+https://github.com/techwarriorz/Chat-App
+<br>
