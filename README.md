@@ -40,3 +40,5 @@ http://geekabyte.blogspot.in/2013/09/fixing-converterhttpmessagenotwritablee.htm
 <br>
 https://github.com/techwarriorz/Chat-App
 <br>
+https://connect2id.com/blog/importing-ca-root-cert-into-jvm-trust-store
+<br>
