@@ -42,3 +42,15 @@ https://github.com/techwarriorz/Chat-App
 <br>
 https://connect2id.com/blog/importing-ca-root-cert-into-jvm-trust-store
 <br>
+#!/bin/bash
+logfile=$1
+if [ ! -f $logfile ]; then
+  echo "log file not found $logfile"
+  exit 1
+fi
+timestamp=`date +%Y%m%d`
+newlogfile=$logfile.$timestamp
+cp $logfile $newlogfile
+cat /dev/null > $logfile
+gzip -f -9 $newlogfile
+<br>
