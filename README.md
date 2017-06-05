@@ -54,3 +54,7 @@ cp $logfile $newlogfile
 cat /dev/null > $logfile
 gzip -f -9 $newlogfile
 <br>
+
+https://gist.github.com/danielestevez/2044589 git tag and upage
+<br>
+javascript, join(", ");
