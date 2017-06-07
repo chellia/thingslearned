@@ -58,3 +58,11 @@ gzip -f -9 $newlogfile
 https://gist.github.com/danielestevez/2044589 git tag and upage
 <br>
 javascript, join(", ");
+
+<br>
+SSL in simple ->
+https://www.ssl.com/article/ssl-tls-handshake-overview/
+https://info.ssl.com/faq-what-is-a-private-key/
+https://www.dynacont.net/documentation/linux/openssl/
+https://www.digicert.com/blog/where-is-your-private-key/
+<br>
