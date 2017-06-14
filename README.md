@@ -65,4 +65,21 @@ https://www.ssl.com/article/ssl-tls-handshake-overview/
 https://info.ssl.com/faq-what-is-a-private-key/
 https://www.dynacont.net/documentation/linux/openssl/
 https://www.digicert.com/blog/where-is-your-private-key/
+https://wiki.apache.org/tomcat/tools/SSLTest.java
 <br>
+Apache proxy --
+ 1) To forward the ssl related headers to internal web application
+  need to set this header
+   RequestHeader set SSL_CLIENT_S_DN "%{SSL_CLIENT_S_DN}s"
+ 2) To read the certificate information from the internal application
+    request.getHeader("ssl_client_s_dn")
+ 3) to read the proxy certificate
+    certDN = certChain[0].getSubjectX500Principal().getName()
+    extractAttributes
+  <br>
+  the java regex engine http://java-regex-tester.appspot.com/
+  <br>
+  know about private key https://info.ssl.com/faq-what-is-a-private-key/
+  https://www.digitalocean.com/community/tutorials/openssl-essentials-working-with-ssl-certificates-private-keys-and-csrs
+  <br>
+   
