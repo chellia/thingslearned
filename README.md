@@ -82,4 +82,24 @@ Apache proxy --
   know about private key https://info.ssl.com/faq-what-is-a-private-key/
   https://www.digitalocean.com/community/tutorials/openssl-essentials-working-with-ssl-certificates-private-keys-and-csrs
   <br>
+  
+  <br>
+<br>
+SSL / TLS
+https://serverfault.com/questions/530430/create-a-public-private-key-pair-for-certificate-in-iis
+https://www.digicert.com/ssl-support/pfx-import-export-iis-7.htm
+
+https://support.accessdata.com/hc/en-us/articles/207830957-How-can-I-get-public-and-private-keys-out-of-IIS-
+
+https://docs.druva.com/Knowledge_Base/inSync/How_To/Using_Microsoft_IIS_to_generate_CSR_and_Private_Key
+
+https://www.devco.net/archives/2006/02/13/public_-_private_key_encryption_using_openssl.php
+https://en.wikibooks.org/wiki/Cryptography/Generate_a_keypair_using_OpenSSL
+
+
+https://docs.oracle.com/en/cloud/paas/database-dbaas-cloud/csdbi/generate-ssh-key-pair.html#GUID-69EF7E8A-7CD5-482E-A878-882EA21DE2B8
+https://www.digitalocean.com/community/tutorials/openssl-essentials-working-with-ssl-certificates-private-keys-and-csrs
+
+https://terry.im/wiki/terry/Use+OpenSSL+to+generate+key+pairs.html
+<br>
    
