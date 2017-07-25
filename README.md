@@ -105,3 +105,5 @@ https://terry.im/wiki/terry/Use+OpenSSL+to+generate+key+pairs.html
   cipher suite details a: https://wiki.mozilla.org/Security/Server_Side_TLS#Recommended_configurations
    <br>
    
+https://www.mulesoft.com/tcat/tomcat-ssl
+<br>
