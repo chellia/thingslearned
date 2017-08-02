@@ -107,3 +107,11 @@ https://terry.im/wiki/terry/Use+OpenSSL+to+generate+key+pairs.html
    
 https://www.mulesoft.com/tcat/tomcat-ssl
 <br>
+Maven Resource
+Resources plugin does the variable resolve. In assembly, we need to filtered to true.
+<fileSet>
+            <directory>assembly/version</directory>
+            <outputDirectory>/</outputDirectory>
+            <filtered>true</filtered>
+        </fileSet>
+<br>
