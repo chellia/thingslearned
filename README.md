@@ -115,3 +115,4 @@ Resources plugin does the variable resolve. In assembly, we need to filtered to 
             <filtered>true</filtered>
         </fileSet>
 <br>
+https://stackoverflow.com/questions/40176003/cdiunit-test-with-junit-rule-is-impossible-because-of-a-public-private-field-pa
