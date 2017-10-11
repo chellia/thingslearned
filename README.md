@@ -116,3 +116,10 @@ Resources plugin does the variable resolve. In assembly, we need to filtered to 
         </fileSet>
 <br>
 https://stackoverflow.com/questions/40176003/cdiunit-test-with-junit-rule-is-impossible-because-of-a-public-private-field-pa
+
+<br>
+Annotation retention policy
+RetentionPolicy.SOURCE: Won't appear in the decompiled class
+RetentionPolicy.CLASS: Appear in the decompiled class, but can't be inspected at run-time with reflection with getAnnotations()
+RetentionPolicy.RUNTIME: Appear in the decompiled class, and can be inspected at run-time with reflection with getAnnotations()
+<br>
