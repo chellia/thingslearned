@@ -126,3 +126,6 @@ RetentionPolicy.RUNTIME: Appear in the decompiled class, and can be inspected at
 <br>
 https://www.nginx.com/blog/building-microservices-using-an-api-gateway/
 <br>
+To Run jenknis job parrallel,
+Increase the number of executors for that slave in Jenkins administration -> Manage Nodes section
+<br>
