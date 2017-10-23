@@ -129,3 +129,5 @@ https://www.nginx.com/blog/building-microservices-using-an-api-gateway/
 To Run jenknis job parrallel,
 Increase the number of executors for that slave in Jenkins administration -> Manage Nodes section
 <br>
+https://stackoverflow.com/questions/19859486/how-to-un-commit-last-un-pushed-git-commit-without-losing-the-changes
+<br>
