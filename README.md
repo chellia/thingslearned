@@ -131,3 +131,5 @@ Increase the number of executors for that slave in Jenkins administration -> Man
 <br>
 https://stackoverflow.com/questions/19859486/how-to-un-commit-last-un-pushed-git-commit-without-losing-the-changes
 <br>
+http://blog.soebes.de/blog/2011/07/29/maven-configuration-for-multipe-environments/
+<br>
