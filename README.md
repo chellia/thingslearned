@@ -133,3 +133,5 @@ https://stackoverflow.com/questions/19859486/how-to-un-commit-last-un-pushed-git
 <br>
 http://blog.soebes.de/blog/2011/07/29/maven-configuration-for-multipe-environments/
 <br>
+clean the cache in intellij
+mvn idea:clean idea:clean
