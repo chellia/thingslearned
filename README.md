@@ -135,3 +135,6 @@ http://blog.soebes.de/blog/2011/07/29/maven-configuration-for-multipe-environmen
 <br>
 clean the cache in intellij
 mvn idea:clean idea:clean
+<br> only the actual declarations are hoisted. Any assignments are left where they are
+https://www.sitepoint.com/back-to-basics-javascript-hoisting/
+</br>
