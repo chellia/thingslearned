@@ -138,3 +138,5 @@ mvn idea:clean idea:clean
 <br> only the actual declarations are hoisted. Any assignments are left where they are
 https://www.sitepoint.com/back-to-basics-javascript-hoisting/
 </br>
+https://www.interviewcake.com/concept/java/js-closure?
+</br>
